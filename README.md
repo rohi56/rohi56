@@ -22,7 +22,10 @@ I mostly work with Linux, Siebel and Cloud based technologies. 🚀
   
  <p float="left">
   <a href="https://github.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  height="75" />
+  </a> 
+   <a href="https://www.ansible.com/" target="_blank" >
+    <img src="https://redhat.com/rhdc/managed-files/ansible-primary-nav__logo.png"  height="75" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
@@ -33,3 +36,4 @@ I mostly work with Linux, Siebel and Cloud based technologies. 🚀
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/rohi56/) 👨🏻‍💻
  - Connect with me on [Hashnode](https://rohi56.hashnode.dev/)💌
+
