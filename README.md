@@ -45,9 +45,6 @@ I mostly work with Linux, Siebel and Cloud based technologies. 🚀
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
   </a>
  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" >
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
-  </a>
   
   ### Monitoring
   
