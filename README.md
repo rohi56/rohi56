@@ -8,7 +8,7 @@ I am [Rohit](https://www.linkedin.com/in/rohi56/), a Siebel Administrator and De
 
 I mostly work with Linux, Siebel and Cloud based technologies. 🚀
 
-<img align='right' src="https://giphy.com/stickers/SintegraGroup-work-computer-dev-wwgamp8bOsx8byvKTi" width="300">
+<img align='right' src="https://giphy.com/embed/wwgamp8bOsx8byvKTi" width="300">
 ## :zap: Skills
   </a>
     <a href="https://www.oracle.com/in/cx/siebel/" target="_blank" >
