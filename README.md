@@ -9,28 +9,53 @@ I am [Rohit](https://www.linkedin.com/in/rohi56/), a Siebel Administrator and De
 I mostly work with Linux, Siebel and Cloud based technologies. 🚀
 
 
-<p float="left">
-  <a href="https://www.linux.org/" target="_blank" >
-    <img src="https://www.linux.org/images/logo.png"  height="90" />
+## :zap: Skills
+
+   <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
   </a>
-    <a href="https://www.oracle.com/in/cx/siebel/" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:500/1*ijdcwpiy_oMVvy3ndUGiVg.png"  height="90" />
+   <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="90" />
   </a>
- </p>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  </a>
+   </a>
+    <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
+  </a>
+ </a>
+    <a href="https://pages.github.com/?(null)" target="_blank" >
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
+  </a>
+ </a>
+  <a href="https://code.visualstudio.com/" target="_blank" >
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+  </a>
   
-### DevOps
+  ### Monitoring
   
  <p float="left">
-  <a href="https://github.com/" target="_blank" >
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  height="75" />
-  </a> 
-   <a href="https://www.ansible.com/" target="_blank" >
-    <img src="https://redhat.com/rhdc/managed-files/ansible-primary-nav__logo.png"  height="75" />
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
   </a>
- </p>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+</p>
   
 ### 📫 How to reach me?
 
