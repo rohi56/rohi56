@@ -10,7 +10,10 @@ I mostly work with Linux, Siebel and Cloud based technologies. 🚀
 
 
 ## :zap: Skills
-
+  </a>
+    <a href="https://www.oracle.com/in/cx/siebel/" target="_blank" >
+    <img src="https://miro.medium.com/v2/resize:fit:500/1*ijdcwpiy_oMVvy3ndUGiVg.png"  height="90" />
+  </a>
    <a href="https://www.linux.org/" target="_blanfalse" />
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
   </a>
