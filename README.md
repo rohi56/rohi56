@@ -1,4 +1,4 @@
-<h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi!!%2C+it's+Rohit+!;+May+your+day+be+filled;with+happiness+and+positivity!;+%4A)" alt="Typing SVG" /></a></h3>
+<h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi!!%2C+it's+Rohit+!;+May+your+day+be+filled;with+happiness+and+positivity!!;+%4A)" alt="Typing SVG" /></a></h3>
 
 <!--
 **rohi56/rohi56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
