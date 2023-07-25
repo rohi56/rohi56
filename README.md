@@ -59,6 +59,7 @@ I mostly work with Linux, Siebel and Cloud based technologies. 🚀
   
 ### 📫 How to reach me?
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/rohi56/) 👨🏻‍💻
- - Connect with me on [Hashnode](https://rohi56.hashnode.dev/)💌
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rohi56/) 👨🏻‍💻
+  ⦿ Connect with me on [Hashnode](https://rohi56.hashnode.dev/)💌
+  ⦿ Shoot Me an [Email](mailto:rohitramteke056@gmail.com) 💌 <br>
 
