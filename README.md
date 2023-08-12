@@ -59,9 +59,12 @@ I mostly work with Linux, Siebel and Cloud based technologies. 🚀
 </p>
 
  ### Badges
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d83efb4a-4e05-435d-b450-eac8303a9c2c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d4b29cbd-aeae-4257-810c-9d5911fce35c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6012a5d3-31e6-4ee6-8bcd-45c54f5e0a6a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  </a>
+    <a href="https://pages.github.com/?(null)" target="_blank" >
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
+  </a>
+ </a>
+
  
   
 ### 📫 How to reach me?
