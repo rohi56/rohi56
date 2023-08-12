@@ -66,12 +66,16 @@ I mostly work with Linux, Siebel and Cloud based technologies. 🚀
  </a>
 
 <!-- Credly Badge 2 -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d4b29cbd-aeae-4257-810c-9d5911fce35c" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/d4b29cbd-aeae-4257-810c-9d5911fce35c/public_url" target="_blank" >
+    <img src="https://images.credly.com/size/110x110/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png"  height="90" />
+  </a>
+ </a>
 
 <!-- Credly Badge 3 -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6012a5d3-31e6-4ee6-8bcd-45c54f5e0a6a" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/6012a5d3-31e6-4ee6-8bcd-45c54f5e0a6a/public_url" target="_blank" >
+    <img src="https://images.credly.com/size/110x110/images/973136f8-09b5-439a-a309-45041c83c756/image.png"  height="90" />
+  </a>
+ </a>
 
  
   
