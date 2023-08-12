@@ -60,7 +60,7 @@ I mostly work with Linux, Siebel and Cloud based technologies. 🚀
 
  ### Badges
   </a>
-    <a href="https://pages.github.com/?(null)" target="_blank" >
+    <a href="https://www.credly.com/badges/6012a5d3-31e6-4ee6-8bcd-45c54f5e0a6a/public_url" target="_blank" >
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
   </a>
  </a>
