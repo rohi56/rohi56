@@ -59,14 +59,11 @@ I mostly work with Linux, Siebel and Cloud based technologies. 🚀
 </p>
 
  ### Badges
-  
-To add these Credly badge embed codes to your GitHub README.md file, you'll want to use HTML comments to prevent rendering issues on the GitHub markdown. Here's how you can do it:
-
-markdown
-Copy code
 <!-- Credly Badge 1 -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d83efb4a-4e05-435d-b450-eac8303a9c2c" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/d83efb4a-4e05-435d-b450-eac8303a9c2c/public_url" target="_blank" >
+    <img src="https://images.credly.com/size/110x110/images/767c6a2b-4026-4395-80a2-0d2cb1eff8af/image.png"  height="90" />
+  </a>
+ </a>
 
 <!-- Credly Badge 2 -->
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d4b29cbd-aeae-4257-810c-9d5911fce35c" data-share-badge-host="https://www.credly.com"></div>
