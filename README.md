@@ -77,6 +77,7 @@ I mostly work with Linux, Siebel and Cloud based technologies. 🚀
   </a>
  </a>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6012a5d3-31e6-4ee6-8bcd-45c54f5e0a6a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
  
   
 ### 📫 How to reach me?
