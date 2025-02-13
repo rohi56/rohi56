@@ -72,7 +72,7 @@ I mostly work with Linux, Siebel and Cloud based technologies. 🚀
  </a>
 
 <!-- Credly Badge 3 -->
-  <a href="https://www.credly.com/badges/6012a5d3-31e6-4ee6-8bcd-45c54f5e0a6a/public_url" target="_blank" >
+  <a href="[https://www.credly.com/badges/6012a5d3-31e6-4ee6-8bcd-45c54f5e0a6a/public_url]" target="_blank" >
     <img src="https://images.credly.com/size/110x110/images/973136f8-09b5-439a-a309-45041c83c756/image.png"  height="150" />
   </a>
  </a>
