@@ -59,23 +59,7 @@ I mostly work with Linux, Siebel and Cloud based technologies. 🚀
 </p>
 
  ### Badges
-<!-- Credly Badge 1 -->
-  <a href="https://www.credly.com/badges/d83efb4a-4e05-435d-b450-eac8303a9c2c/public_url" target="_blank" >
-    <img src="https://images.credly.com/size/110x110/images/767c6a2b-4026-4395-80a2-0d2cb1eff8af/image.png"  height="150" />
-  </a>
- </a>
-
-<!-- Credly Badge 2 -->
-  <a href="https://www.credly.com/badges/d4b29cbd-aeae-4257-810c-9d5911fce35c/public_url" target="_blank" >
-    <img src="https://images.credly.com/size/110x110/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png"  height="150" />
-  </a>
- </a>
-
-<!-- Credly Badge 3 -->
-  <a href="[https://www.credly.com/badges/6012a5d3-31e6-4ee6-8bcd-45c54f5e0a6a/public_url]" target="_blank" >
-    <img src="https://images.credly.com/size/110x110/images/973136f8-09b5-439a-a309-45041c83c756/image.png"  height="150" />
-  </a>
- </a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6012a5d3-31e6-4ee6-8bcd-45c54f5e0a6a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
  
   
