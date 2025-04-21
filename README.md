@@ -1,64 +1,62 @@
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=700&size=20&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi!!%2C+it's+Rohit+!;+May+your+day+be+filled;with+happiness+and+positivity!!%F0%9F%8C%BC;+%3A)" alt="Typing SVG" />
-  </a>
-</h3>
+# 👋 Hi, I'm Rohit Ramteke
 
-I am [Rohit](https://www.linkedin.com/in/rohi56/), a Siebel Administrator and DevOps Expert from [🇮🇳](https://en.wikipedia.org/wiki/India). I am a highly skilled and experienced professional specializing in Siebel administration and DevOps practices. With a deep understanding of the Siebel CRM platform and a passion for streamlining software development processes, I have dedicated my career to optimizing the efficiency and performance of Siebel implementations.🎯
+A tech-driven professional evolving from a strong background in **DevOps and Siebel CRM** into the dynamic world of **Artificial Intelligence and Machine Learning**.
 
-I mostly work with Linux, Siebel, and Cloud-based technologies. 🚀
+With a passion for innovation and hands-on experience in **data pipelines**, **predictive modeling**, and **natural language processing (NLP)**, I specialize in building **smart, scalable, and automated solutions**. I bring a unique edge by integrating **DevOps automation** into the **AI/ML lifecycle**, ensuring efficiency, scalability, and impact.
 
-<img align='right' src="https://media.giphy.com/media/wwgamp8bOsx8byvKTi/giphy.gif" width="300">
+---
 
-## :zap: Skills
-<a href="https://www.oracle.com/in/cx/siebel/" target="_blank">
-  <img src="https://miro.medium.com/v2/resize:fit:500/1*ijdcwpiy_oMVvy3ndUGiVg.png" height="90" />
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="90" />
-</a>
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="90" />
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80" />
-</a>
-<a href="https://kubernetes.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="75" />
-</a>
-<a href="https://docs.gitlab.com/ee/ci/" target="_blank">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="65" />
-</a>
-<a href="https://www.terraform.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
-</a>
-<a href="https://www.jenkins.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
-</a>
-<a href="https://www.ansible.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="90" />
-</a>
-<a href="https://pages.github.com/" target="_blank">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
-</a>
+## 🚀 AI/ML Skills & Tools
 
-### Monitoring
+**Languages & Frameworks:**  
+Python, Pandas, Scikit-learn, TensorFlow, Keras, NLTK
 
-<p float="left">
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
-  </a>
-  <a href="https://prometheus.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-</p>
+**AI/ML Techniques:**  
+EDA, Demand Forecasting, Classification, NLP, Deep Learning, CNN
 
+**Cloud Platforms:**  
+Azure, Databricks, AWS
 
-### 📫 How to reach me?
+**Visualization Tools:**  
+Power BI, Tableau, Matplotlib, Seaborn
 
-⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rohi56/) 👨🏻‍💻<br>
-⦿ Connect with me on [Hashnode](https://rohi56.hashnode.dev/) 💌<br>
-⦿ Shoot Me an [Email](mailto:rohitramteke056@gmail.com) 💌<br>
+**DevOps Background:**  
+Git, Jenkins, Docker, Kubernetes, Linux Scripting, Ansible
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/rohi56/count.svg)
+**Databases & Big Data:**  
+SQL, PySpark
+
+---
+
+## 🎯 Specialties
+
+- Exploratory Data Analysis (EDA)  
+- Time Series Forecasting  
+- Text Analytics & NLP  
+- Neural Networks (CNN, RNN)  
+- Regression & Classification  
+- Business Analytics  
+- CI/CD Integration in ML Projects
+
+---
+
+## 💡 Mission-Driven Mindset
+
+> I believe in solving real-world problems through AI—whether it's optimizing delivery systems, understanding customer behavior, or automating decision-making processes.
+
+Backed by **recognized certifications** from **IBM**, **Google Cloud**, and the **University of Michigan**, I'm ready to contribute to **data-first teams** that aim to drive real-world impact with purpose and intent.
+
+---
+
+## 🤝 Let’s Connect & Collaborate
+
+If you’re working in AI, cloud, or data engineering—I’d love to exchange ideas, collaborate, or contribute to forward-thinking projects.
+
+- 🔗 [LinkedIn](https://linkedin.com/in/rohi56)  
+- 🔗 [GitHub](https://github.com/rohi56)  
+- 📧 rohitramteke056@gmail.com  
+- 🎓 [Credly Certifications](https://www.credly.com/users/rohi56)
+
+---
+
+_“Code with purpose, automate with intent, and innovate with data.”_
