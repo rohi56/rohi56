@@ -27,7 +27,7 @@
 
 ## 🧭 About Me
 
-Results-driven **Data Scientist & Machine Learning Engineer** with **10+ years of overall IT experience**, transitioning from Siebel CRM & DevOps into **AI, Machine Learning, and Predictive Analytics**.
+Results-driven **Data Scientist & Machine Learning Engineer** with **10+ years of overall IT experience**, bringing a strong foundation in **Siebel CRM & DevOps automation** into applied **AI, Machine Learning, and Predictive Analytics**.
 
 - 🔭 Currently building **demand forecasting, NLP, and optimization models** at **Birlasoft** using Python, PySpark & Azure Databricks
 - 🧠 Hands-on across the **full ML lifecycle** — EDA → Feature Engineering → Model Training & Evaluation → Deployment on Azure
