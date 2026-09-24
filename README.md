@@ -47,6 +47,7 @@ Results-driven **Data Scientist & Machine Learning Engineer** with **10+ years o
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
 <img src="https://img.shields.io/badge/NLTK-3776AB?style=flat-square">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"> </p>
 </p>
 
 **Cloud & Big Data**
